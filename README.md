@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td align="center" width="120">
-      <img src="https://commons.wikimedia.org/wiki/File:Tailwind_CSS_Logo.svg" width="48" />
+      <img src="logos/tailwindcss.svg" width="48" />
       <br><sub><b>Tailwind CSS</b></sub>
     </td>
     <td align="center" width="120">
