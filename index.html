@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Muhammad Hasaam | LinkedIn Badge</title>
+
+  <!-- LinkedIn Badge Script -->
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+  <!-- Custom Styles -->
+  <style>
+    :root {
+      --primary-color: #0a66c2;
+      --text-color: #ffffff;
+      --bg-color: #121212;
+      --card-bg: #1e1e1e;
+      --shadow-color: rgba(0, 0, 0, 0.5);
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background-color: var(--bg-color);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: var(--text-color);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 24px;
+      text-align: center;
+      color: var(--primary-color);
+    }
+
+    .badge-base {
+      background-color: var(--card-bg);
+      border-radius: 12px;
+      padding: 16px;
+      box-shadow: 0 8px 20px var(--shadow-color);
+      transition: transform 0.3s ease;
+    }
+
+    .badge-base:hover {
+      transform: scale(1.02);
+    }
+
+    /* Optional: Add a smooth fade-in */
+    body {
+      opacity: 0;
+      animation: fadeIn 0.8s ease-out forwards;
+    }
+
+    @keyframes fadeIn {
+      to {
+        opacity: 1;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Let's Connect on LinkedIn</h1>
+
+  <!-- LinkedIn Badge -->
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light"
+    data-type="HORIZONTAL" data-vanity="m-hasaam" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/m-hasaam?trk=profile-badge">
+    </a>
+  </div>
+</body>
+
+</html>
