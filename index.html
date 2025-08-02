@@ -5,11 +5,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Muhammad Hasaam | LinkedIn Badge</title>
-
-  <!-- LinkedIn Badge Script -->
   <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-  <!-- Custom Styles -->
   <style>
     :root {
       --primary-color: #0a66c2;
@@ -35,6 +31,8 @@
       justify-content: center;
       min-height: 100vh;
       padding: 20px;
+      opacity: 0;
+      animation: fadeIn 0.8s ease-out forwards;
     }
 
     h1 {
@@ -56,10 +54,12 @@
       transform: scale(1.02);
     }
 
-    /* Optional: Add a smooth fade-in */
-    body {
-      opacity: 0;
-      animation: fadeIn 0.8s ease-out forwards;
+    .note {
+      margin-top: 24px;
+      font-size: 1rem;
+      color: #cccccc;
+      text-align: center;
+      max-width: 600px;
     }
 
     @keyframes fadeIn {
@@ -79,6 +79,11 @@
     <a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/m-hasaam?trk=profile-badge">
     </a>
   </div>
+
+  <!-- Work In Progress Note -->
+  <p class="note">
+    🚧 I'm currently working on a professional portfolio to better showcase my projects, skills, and experiences. Stay tuned!
+  </p>
 </body>
 
 </html>
