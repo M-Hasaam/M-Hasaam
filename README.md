@@ -88,16 +88,43 @@
 ### 🧠 LeetCode Practice
 📊 Visit my profile → [leetcode.com/u/M_HASAAM](https://leetcode.com/u/M_HASAAM/)
 
+<div align="center">
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/M_HASAAM?theme=dark&font=Karla&ext=contest)](https://leetcode.com/u/M_HASAAM/)
+
+</div>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Hasaam&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hasaam&layout=compact&theme=radical" height="165"/>
-</p>
+<div align="center">
+
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/M-Hasaam">
+  <img height="200" src="https://streak-stats.demolab.com/?user=M-Hasaam&theme=github-dark&fire=FF8C00&ring=0366D6&currStreakNum=0366D6&sideLabels=586069&border=0366D6" alt="GitHub Streak"/>
+</a>
+
+<!-- GitHub Stats -->
+<a href="https://github.com/M-Hasaam">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=M-Hasaam&show_icons=true&theme=github_dark&border_radius=15&hide_border=false&count_private=true&custom_title=My%20GitHub%20Stats" alt="GitHub Stats"/>
+</a>
+
+<!-- Top Languages -->
+<a href="https://github.com/M-Hasaam">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hasaam&layout=compact&theme=github_dark&border_radius=15&langs_count=8&hide_border=false" alt="Top Languages"/>
+</a>
+
+
+<!-- GitHub Contribution Graph -->
+<a href="https://github.com/M-Hasaam">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Hasaam&theme=github&area=true&hide_border=true&radius=16" alt="GitHub Contribution Graph"/>
+</a>
+
+
+
+</div>
+
 
 ---
 
