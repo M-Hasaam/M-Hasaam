@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Passionate+Programmer;C%2B%2B+%7C+Python+%7C+MERN+Developer;Always+learning+new+things..." alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://m-hasaam.github.io/M-Hasaam/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-%230A66C2.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -56,12 +62,9 @@
 
 ### 🔗 Let's Connect
 
-- 💼 LinkedIn: [m-hasaam](https://pk.linkedin.com/in/m-hasaam)
-- ✉️ Email: m.hasaam.official@gmail.com
-
-
-
-
+- 🌐 **Portfolio**: [m-hasaam.github.io/M-Hasaam](https://m-hasaam.github.io/M-Hasaam/)
+- 💼 **LinkedIn**: [m-hasaam](https://pk.linkedin.com/in/m-hasaam)
+- ✉️ **Email**: m.hasaam.official@gmail.com
 
 ---
 
