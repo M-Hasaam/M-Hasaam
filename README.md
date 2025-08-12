@@ -27,69 +27,70 @@
 
 ---
 
-
 ### 🚀 Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" />
-      <br><sub><b>C++</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" />
-      <br><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" />
-      <br><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
-      <br><sub><b>React</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" />
-      <br><sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" />
-      <br><sub><b>Express</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" />
-      <br><sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" />
-      <br><sub><b>Next.js</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="logos/tailwindcss.svg" width="48" />
-      <br><sub><b>Tailwind CSS</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://www.svgrepo.com/show/373574/ejs.svg" width="48" />
-      <br><sub><b>EJS</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" />
-      <br><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" />
-      <br><sub><b>GitHub</b></sub>
-    </td>
-  </tr>
-</table>
-
-
+<div align="center" style="font-family:Segoe UI, sans-serif;">
 
 ---
+
+#### 🖥 Programming & Game Dev
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript" height="50" />
+<img src="logos/sfml2.png" width="50" title="SFML" style="border-radius:8px;box-shadow:0 0 10px rgba(0,0,0,0.2);" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/OOP-Concepts-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Structures-Algorithms-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CMake-Build%20Tool-yellow?style=for-the-badge" />
+</p>
+
+---
+
+#### 🌐 Web Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind" height="50" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/DOM%20Manipulation-JS-yellowgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Fetch%20API-JS-blueviolet?style=for-the-badge" />
+</p>
+
+---
+
+#### ⚛ Frameworks & Libraries (MERN)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs" height="50" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/React%20Router-Routing-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Express%20Middleware-cors%2C%20morgan%2C%20bodyparser-lightgrey?style=for-the-badge" />
+</p>
+
+---
+
+#### ☁ Databases & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" height="50" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/LocalStorage-Browser-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IndexedDB-Browser-blue?style=for-the-badge" />
+</p>
+
+---
+
+#### 🛠 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,ubuntu,postman,vscode,visualstudio,figma" height="50" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/Bash%2FShell-Commands-black?style=for-the-badge" />
+</p>
+
+---
+
+</div>
+
+
 
 ### 🧠 LeetCode Practice
 📊 Visit my profile → [leetcode.com/u/M_HASAAM](https://leetcode.com/u/M_HASAAM/)
