@@ -1,101 +1,163 @@
-<h1 align="center">Hi there 👋, I'm Muhammad Hasaam</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Passionate+Programmer;C%2B%2B+%7C+Python+%7C+MERN+Developer;Always+learning+new+things..." alt="Typing SVG" />
-</p>
+<!-- Waving header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=220&section=header&text=Muhammad%20Hasaam&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20CS%20Enthusiast&descAlignY=58&descSize=18"/>
 
-<p align="center">
-  <a href="https://m-hasaam.github.io/M-Hasaam/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-%230A66C2.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-</p>
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=1F75FE&center=true&vCenter=true&width=500&lines=Passionate+Programmer+%F0%9F%9A%80;C%2B%2B+%7C+Python+%7C+MERN+%7C+Next.js;Always+Learning+%26+Building+%E2%9C%A8" alt="Typing SVG" />
 
-<!--
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M-Hasaam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
--->
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=M-Hasaam&label=Profile+Views&color=1F75FE&style=flat-square" alt="Profile Views" />
+
+<br/><br/>
+
+<!-- for-the-badge social links -->
+<a href="https://m-hasaam.github.io/M-Hasaam/" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Portfolio-%230A66C2.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://pk.linkedin.com/in/m-hasaam" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:m.hasaam.official@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/M_HASAAM/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+&nbsp;
+<a href="https://github.com/M-Hasaam" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
+
 - 🎓 CS enthusiast focused on **problem solving** and **full-stack web development**
-- 💻 Skilled in **C++**, **Python**, **MERN stack**, and **modern web tools**
-- ⚡ Learning **Next.js**, **TailwindCSS**, **EJS**, and backend APIs
+- 💻 Skilled in **C++**, **Python**, **MERN stack**, **Next.js**, and **modern backend tools**
+- ⚡ Currently learning **NestJS**, **Bun**, **Prisma**, **Supabase**, and advanced backend APIs
 - 🧠 Actively practicing on [LeetCode](https://leetcode.com/u/M_HASAAM/)
 - 🚀 Always open to collaboration and innovative ideas!
 
 ---
 
-### 🚀 Tech Stack
-<div align="center" style="font-family:Segoe UI, sans-serif;">
+## 🚀 Tech Stack
 
----
+<div align="center">
 
-#### 🖥 Programming & Game Dev
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript" height="50" />
-<img src="logos/sfml2.png" width="50" title="SFML" style="border-radius:8px;box-shadow:0 0 10px rgba(0,0,0,0.2);" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/OOP-Concepts-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Structures-Algorithms-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CMake-Build%20Tool-yellow?style=for-the-badge" />
-</p>
-
----
-
-#### 🌐 Web Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind" height="50" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/DOM%20Manipulation-JS-yellowgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Fetch%20API-JS-blueviolet?style=for-the-badge" />
-</p>
-
----
-
-#### ⚛ Frameworks & Libraries (MERN)
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs" height="50" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/React%20Router-Routing-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Express%20Middleware-cors%2C%20morgan%2C%20bodyparser-lightgrey?style=for-the-badge" />
-</p>
-
----
-
-#### ☁ Databases & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" height="50" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/LocalStorage-Browser-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IndexedDB-Browser-blue?style=for-the-badge" />
-</p>
-
----
-
-#### 🛠 Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,ubuntu,postman,vscode,visualstudio,figma" height="50" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Bash%2FShell-Commands-black?style=for-the-badge" />
-</p>
-
----
+<div align="center">
+  <img src="./Skills_Animation_Dark.gif" 
+       alt="Skills Animation" 
+       width="50%" />
+</div>
 
 </div>
 
+### 🖥️ Programming Languages
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="C++" title="C++"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python" title="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="JavaScript" title="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" alt="TypeScript" title="TypeScript"/>
+</p>
 
-### 🧠 LeetCode Practice
-📊 Visit my profile → [leetcode.com/u/M_HASAAM](https://leetcode.com/u/M_HASAAM/)
+---
+
+### 🌐 Web Technologies
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="HTML5" title="HTML5"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="CSS3" title="CSS3"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="55" alt="Bootstrap" title="Bootstrap"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="TailwindCSS" title="TailwindCSS"/>
+</p>
+
+---
+
+### ⚛️ Frameworks & Libraries
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="React" title="React"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="Next.js" title="Next.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="Node.js" title="Node.js"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="55" alt="Express.js" title="Express.js"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nestjs" height="55" alt="NestJS" title="NestJS"/>
+</p>
+
+---
+
+### 🗄️ Databases & ORMs
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" alt="MongoDB" title="MongoDB"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="PostgreSQL" title="PostgreSQL"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" height="55" alt="Prisma" title="Prisma"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="55" alt="Firebase" title="Firebase"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" height="55" alt="Supabase" title="Supabase"/>
+</p>
+
+---
+
+### ⚡ Runtime & Auth
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bun" height="55" alt="Bun" title="Bun"/>
+  &nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/49538330?s=55&v=4" height="55" style="border-radius:10px" alt="Clerk" title="Clerk"/>
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git" title="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" title="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="Linux" title="Linux"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="55" alt="Postman" title="Postman"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="VS Code" title="VS Code"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="55" alt="Visual Studio" title="Visual Studio"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" alt="Figma" title="Figma"/>
+</p>
+
+---
+
+## 🧠 LeetCode Practice
 
 <div align="center">
+
+📊 Visit my profile → [leetcode.com/u/M_HASAAM](https://leetcode.com/u/M_HASAAM/)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/M_HASAAM?theme=dark&font=Karla&ext=contest)](https://leetcode.com/u/M_HASAAM/)
 
@@ -103,44 +165,69 @@
 
 ---
 
-### 📈 GitHub Activity & Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- GitHub Streak Stats -->
-<a href="https://github.com/M-Hasaam">
-  <img height="200" src="https://streak-stats.demolab.com/?user=M-Hasaam&theme=github-dark&fire=FF8C00&ring=0366D6&currStreakNum=0366D6&sideLabels=586069&border=0366D6" alt="GitHub Streak"/>
-</a>
+<!-- <h3>🏆 GitHub Trophies</h3>
 
-<!-- GitHub Stats -->
-<a href="https://github.com/M-Hasaam">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=M-Hasaam&show_icons=true&theme=github_dark&border_radius=15&hide_border=false&count_private=true&custom_title=My%20GitHub%20Stats" alt="GitHub Stats"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=M-Hasaam&theme=algolia&no-frame=true&margin-w=6&row=1" alt="GitHub Trophies"/>
 
-<!-- Top Languages -->
-<a href="https://github.com/M-Hasaam">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hasaam&layout=compact&theme=github_dark&border_radius=15&langs_count=8&hide_border=false" alt="Top Languages"/>
-</a>
+<br/><br/>
 
+<h3>📈 GitHub Stats</h3>
 
-<!-- GitHub Contribution Graph -->
-<a href="https://github.com/M-Hasaam">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Hasaam&theme=github&area=true&hide_border=true&radius=16" alt="GitHub Contribution Graph"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-Hasaam&show_icons=true&theme=tokyonight&border_radius=15&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hasaam&layout=compact&theme=tokyonight&border_radius=15&langs_count=8" alt="Top Languages"/>
 
+<br/><br/> -->
 
+<h3>🔥 GitHub Streak</h3>
+
+<img src="https://streak-stats.demolab.com/?user=M-Hasaam&theme=tokyonight&border_radius=15" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<h3>📅 Contribution Graph</h3>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Hasaam&theme=tokyo-night&area=true&hide_border=true&radius=16" alt="Contribution Graph"/>
+
+<br/><br/>
+
+<h3>🔝 Top Contributed Repositories</h3>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=M-Hasaam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
+</div>
 
 ---
 
-### 🔗 Let's Connect
+## 💡 Random Dev Quote
 
-- 🌐 **Portfolio**: [m-hasaam.github.io/M-Hasaam](https://m-hasaam.github.io/M-Hasaam/)
-- 💼 **LinkedIn**: [m-hasaam](https://pk.linkedin.com/in/m-hasaam)
-- ✉️ **Email**: m.hasaam.official@gmail.com
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</div>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<div align="center">
+
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<br/>
+
+**💬 Let's build something amazing together!**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=120&section=footer"/>
+
+</div>
