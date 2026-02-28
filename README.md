@@ -200,28 +200,28 @@
 
 </div>
 
+
+<!-- <div align="center">
 ---
 
 ## 🐍 Contribution Snake
-
-<div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
-</div>
+</div> -->
 
+
+<!-- <div align="center">
 ---
 
 ## 💡 Random Dev Quote
-
-<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
+</div> -->
 
 ---
 
 <div align="center">
-
+<!--
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
+-->
 <br/>
 
 **💬 Let's build something amazing together!**
