@@ -129,6 +129,8 @@
   <img src="https://skillicons.dev/icons?i=bun" height="55" alt="Bun" title="Bun"/>
   &nbsp;&nbsp;
   <img src="https://avatars.githubusercontent.com/u/49538330?s=55&v=4" height="55" style="border-radius:10px" alt="Clerk" title="Clerk"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" height="55" alt="Redis" title="Redis"/>
 </p>
 
 ---
