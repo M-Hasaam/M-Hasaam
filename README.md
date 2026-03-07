@@ -151,14 +151,6 @@
 
 ---
 
-## 🪪 GitRoll Developer Profile
-
-<p align="center">
-<a href="https://gitroll.io/profile/uktac44a8nbYHcLWh76O1VP7Nr6x2" target="_blank">
-<img width="600px" src="https://gitroll.io/api/badges/profiles/v1/uktac44a8nbYHcLWh76O1VP7Nr6x2?theme=tokyoNight" alt="GitRoll Profile Badge"/>
-</a>
-</p>
-
 # 🧠 LeetCode Practice
 
 <div align="center">
@@ -167,10 +159,17 @@
 
 </div>
 
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
+## 🪪 GitRoll Developer Profile
+
+<a href="https://gitroll.io/profile/uktac44a8nbYHcLWh76O1VP7Nr6x2" target="_blank">
+<img width="600px" src="https://gitroll.io/api/badges/profiles/v1/uktac44a8nbYHcLWh76O1VP7Nr6x2?theme=tokyoNight" alt="GitRoll Profile Badge"/>
+</a>
 
 <br/><br/>
 
