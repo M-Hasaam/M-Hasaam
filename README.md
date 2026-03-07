@@ -14,23 +14,23 @@
 
 <!-- for-the-badge social links -->
 <a href="https://m-hasaam.github.io/M-Hasaam/" target="_blank">
-  <img src="https://img.shields.io/badge/My%20Portfolio-%230A66C2.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/My%20Portfolio-%230A66C2.svg?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://pk.linkedin.com/in/m-hasaam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:m.hasaam.official@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/M_HASAAM/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
 <a href="https://github.com/M-Hasaam" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -41,125 +41,119 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 CS enthusiast focused on **problem solving** and **full-stack web development**
 - 💻 Skilled in **C++**, **Python**, **MERN stack**, **Next.js**, and **modern backend tools**
 - ⚡ Currently learning **NestJS**, **Bun**, **Prisma**, **Supabase**, and advanced backend APIs
-- 🧠 Actively practicing on [LeetCode](https://leetcode.com/u/M_HASAAM/)
+- 🧠 Actively practicing on **LeetCode**
 - 🚀 Always open to collaboration and innovative ideas!
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <div align="center">
 
-<div align="center">
-  <img src="./Skills_Animation_Dark.gif" 
-       alt="Skills Animation" 
-       width="50%" />
-</div>
+<img src="./Skills_Animation_Dark.gif" width="50%"/>
 
 </div>
 
-### 🖥️ Programming Languages
+## 🖥️ Programming Languages
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="C++" title="C++"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python" title="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="JavaScript" title="JavaScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" alt="TypeScript" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55"/>
 </p>
 
 ---
 
-### 🌐 Web Technologies
+## 🌐 Web Technologies
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="HTML5" title="HTML5"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="CSS3" title="CSS3"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="55" alt="Bootstrap" title="Bootstrap"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="TailwindCSS" title="TailwindCSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="55"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" height="55"/>
 </p>
 
 ---
 
-### ⚛️ Frameworks & Libraries
+## ⚛️ Frameworks & Libraries
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="React" title="React"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="Next.js" title="Next.js"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="Node.js" title="Node.js"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="55" alt="Express.js" title="Express.js"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nestjs" height="55" alt="NestJS" title="NestJS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" height="55"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=express" height="55"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=nestjs" height="55"/>
 </p>
 
 ---
 
-### 🗄️ Databases & ORMs
+## 🗄️ Databases & ORMs
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" alt="MongoDB" title="MongoDB"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="PostgreSQL" title="PostgreSQL"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=prisma" height="55" alt="Prisma" title="Prisma"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="55" alt="Firebase" title="Firebase"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase" height="55" alt="Supabase" title="Supabase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=prisma" height="55"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="55"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=supabase" height="55"/>
 </p>
 
 ---
 
-### ⚡ Runtime & Auth
+## ⚡ Runtime & Auth
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bun" height="55" alt="Bun" title="Bun"/>
-  &nbsp;&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/49538330?s=55&v=4" height="55" style="border-radius:10px" alt="Clerk" title="Clerk"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" height="55" alt="Redis" title="Redis"/>
+<img src="https://skillicons.dev/icons?i=bun" height="55"/>
+&nbsp;
+<img src="https://avatars.githubusercontent.com/u/49538330?s=55&v=4" height="55"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=redis" height="55"/>
 </p>
 
 ---
 
-### 🛠️ Tools & Platforms
+## 🛠️ Tools & Platforms
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git" title="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" title="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="Linux" title="Linux"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="55" alt="Postman" title="Postman"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="VS Code" title="VS Code"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="55" alt="Visual Studio" title="Visual Studio"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" alt="Figma" title="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="55"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="55"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55"/>
 </p>
 
 ---
 
-## 🧠 LeetCode Practice
+# 🧠 LeetCode Practice
 
 <div align="center">
-
-📊 Visit my profile → [leetcode.com/u/M_HASAAM](https://leetcode.com/u/M_HASAAM/)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/M_HASAAM?theme=dark&font=Karla&ext=contest)](https://leetcode.com/u/M_HASAAM/)
 
@@ -167,66 +161,41 @@
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- <h3>🏆 GitHub Trophies</h3>
+## 🪪 GitRoll Developer Profile
 
-<img src="https://github-profile-trophy.vercel.app/?username=M-Hasaam&theme=algolia&no-frame=true&margin-w=6&row=1" alt="GitHub Trophies"/>
-
-<br/><br/>
-
-<h3>📈 GitHub Stats</h3>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-Hasaam&show_icons=true&theme=tokyonight&border_radius=15&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hasaam&layout=compact&theme=tokyonight&border_radius=15&langs_count=8" alt="Top Languages"/>
-
-<br/><br/> -->
-
-<h3>🔥 GitHub Streak</h3>
-
-<img src="https://streak-stats.demolab.com/?user=M-Hasaam&theme=tokyonight&border_radius=15" alt="GitHub Streak"/>
+<a href="https://gitroll.io/profile/uDLyvEsgktJW72fZVTuv0QiVrfMe2">
+<img src="https://gitroll.io/api/badges/profiles/v1/uktac44a8nbYHcLWh76O1VP7Nr6x2?theme=dracula"/>
+</a>
 
 <br/><br/>
 
-<h3>📅 Contribution Graph</h3>
+## 🔥 GitHub Streak
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Hasaam&theme=tokyo-night&area=true&hide_border=true&radius=16" alt="Contribution Graph"/>
+<img src="https://streak-stats.demolab.com/?user=M-Hasaam&theme=tokyonight&border_radius=15"/>
 
 <br/><br/>
 
-<h3>🔝 Top Contributed Repositories</h3>
+## 📅 Contribution Graph
 
-<img src="https://github-contributor-stats.vercel.app/api?username=M-Hasaam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Hasaam&theme=tokyo-night&area=true&hide_border=true&radius=16"/>
+
+<br/><br/>
+
+## 🔝 Top Contributed Repositories
+
+<img src="https://github-contributor-stats.vercel.app/api?username=M-Hasaam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
 </div>
 
-
-<!-- <div align="center">
----
-
-## 🐍 Contribution Snake
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
-</div> -->
-
-
-<!-- <div align="center">
----
-
-## 💡 Random Dev Quote
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div> -->
-
 ---
 
 <div align="center">
-<!--
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
--->
-<br/>
 
-**💬 Let's build something amazing together!**
+💬 **Let's build something amazing together!**
 
 <br/>
 
