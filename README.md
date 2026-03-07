@@ -167,9 +167,11 @@
 
 ## 🪪 GitRoll Developer Profile
 
-<a href="https://gitroll.io/profile/uDLyvEsgktJW72fZVTuv0QiVrfMe2">
-<img src="https://gitroll.io/api/badges/profiles/v1/uktac44a8nbYHcLWh76O1VP7Nr6x2?theme=dracula"/>
+<p align="center">
+<a href="https://gitroll.io/profile/uktac44a8nbYHcLWh76O1VP7Nr6x2" target="_blank">
+<img width="800px" src="https://gitroll.io/api/badges/profiles/v1/uktac44a8nbYHcLWh76O1VP7Nr6x2?theme=tokyoNight" alt="GitRoll Profile Badge"/>
 </a>
+</p>
 
 <br/><br/>
 
