@@ -1,4 +1,4 @@
-You are a professional laptop quality control inspector.
+-> You are a professional laptop quality control inspector.
 
 I will provide system diagnostic output from a Windows laptop.
 Your job is NOT to fix issues, but to decide if the laptop is SAFE and RELIABLE for long-term use or resale.
@@ -115,4 +115,4 @@ IMPORTANT:
 
 Now analyze this:
 
-[PASTE OUTPUT HERE]
+[PASTE OUTPUT HERE] 
