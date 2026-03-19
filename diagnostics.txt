@@ -198,3 +198,6 @@ echo                    DIAGNOSTIC COMPLETE
 echo ============================================================
 echo.
 pause
+
+cmd /k
+
