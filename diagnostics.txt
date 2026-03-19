@@ -1,0 +1,200 @@
+@echo off
+setlocal EnableDelayedExpansion
+
+:: Ask once (default = N)
+set "autoClear=N"
+set /p userInput=Clear screen after each section? (Y/N, default=N): 
+if /I "%userInput%"=="Y" set "autoClear=Y"
+
+:: Helper
+set "doClear=if /I "!autoClear!"=="Y" cls"
+
+echo.
+echo ============================================================
+echo                 SYSTEM QUICK DIAGNOSTIC START
+echo ============================================================
+echo.
+pause
+%doClear%
+
+echo.
+echo ============================================================
+echo 1. Kernel Power Errors (Crash Check)
+echo ============================================================
+echo.
+echo [GOOD] = No output
+echo [BAD]  = Event 41 shown (system crash)
+echo.
+wevtutil qe System /q:"*[System[(EventID=41)]]" /f:text /c:5
+echo.
+pause
+%doClear%
+
+echo.
+echo ============================================================
+echo 2. Disk / File System Errors
+echo ============================================================
+echo.
+echo [GOOD] = No output
+echo [BAD]  = Event 55 (file system corruption)
+echo.
+wevtutil qe System /q:"*[System[(EventID=55)]]" /f:text /c:5
+echo.
+pause
+%doClear%
+
+echo.
+echo ============================================================
+echo 3. Hardware Errors (WHEA)
+echo ============================================================
+echo.
+echo [GOOD] = No output
+echo [BAD]  = Event 18 (hardware failure)
+echo.
+wevtutil qe System /q:"*[System[(EventID=18)]]" /f:text /c:5
+echo.
+pause
+%doClear%
+
+echo.
+echo ============================================================
+echo 4. Critical Errors (General)
+echo ============================================================
+echo.
+echo [GOOD] = Few or no errors
+echo [BAD]  = Many repeated errors
+echo.
+wevtutil qe System /q:"*[System[(Level=2)]]" /f:text /c:10
+echo.
+pause
+%doClear%
+
+echo.
+echo ============================================================
+echo 5. Sleep Blockers
+echo ============================================================
+echo.
+echo [GOOD] = All None
+echo [BAD]  = Any process listed
+echo.
+powercfg /requests
+echo.
+pause
+%doClear%
+
+echo.
+echo ============================================================
+echo 6. Sleep States
+echo ============================================================
+echo.
+echo [NORMAL] = S0 present
+echo.
+powercfg /a
+echo.
+pause
+%doClear%
+
+echo.
+echo ============================================================
+echo 7. Last Wake Source
+echo ============================================================
+echo.
+echo [INFO] = Check unexpected wake sources
+echo.
+powercfg /lastwake
+echo.
+pause
+%doClear%
+
+echo.
+echo ============================================================
+echo 8. Disk Health
+echo ============================================================
+echo.
+echo [GOOD] = Status OK
+echo.
+wmic diskdrive get model,status
+echo.
+pause
+%doClear%
+
+echo.
+echo ============================================================
+echo 9. BIOS Version
+echo ============================================================
+echo.
+echo [INFO] = Should not be blank
+echo.
+wmic bios get smbiosbiosversion
+echo.
+pause
+%doClear%
+
+echo.
+echo ============================================================
+echo 10. Driver Issues
+echo ============================================================
+echo.
+echo [INFO] = Look for unknown/problem drivers
+echo.
+driverquery
+echo.
+pause
+%doClear%
+
+echo.
+echo ============================================================
+echo 11. System File Check
+echo ============================================================
+echo.
+echo [GOOD] = No integrity violations
+echo [BAD]  = Corrupt files found
+echo.
+sfc /scannow
+echo.
+pause
+%doClear%
+
+echo.
+echo ============================================================
+echo 12. Windows Image Repair
+echo ============================================================
+echo.
+echo [GOOD] = No corruption
+echo [BAD]  = Repair needed
+echo.
+DISM /Online /Cleanup-Image /RestoreHealth
+echo.
+pause
+%doClear%
+
+echo.
+echo ============================================================
+echo 13. Power Report
+echo ============================================================
+echo.
+echo [INFO] = Opens detailed report
+echo.
+powercfg /energy
+echo.
+pause
+%doClear%
+
+echo.
+echo ============================================================
+echo 14. Sleep Study Report
+echo ============================================================
+echo.
+echo [INFO] = Opens sleep diagnostics
+echo.
+powercfg /sleepstudy
+echo.
+pause
+%doClear%
+
+echo.
+echo ============================================================
+echo                    DIAGNOSTIC COMPLETE
+echo ============================================================
+echo.
+pause
