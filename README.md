@@ -54,10 +54,15 @@
 # 🚀 Tech Stack
 
 <div align="center">
-
-<img src="./Skills_Animation_Dark.gif" width="50%"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img src="./Skills_Animation_White.gif" 
+         alt="Skills Animation" 
+         width="50%">
+  </picture>
 </div>
+
 
 ## 🖥️ Programming Languages
 
