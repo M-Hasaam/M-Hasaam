@@ -1,33 +1,33 @@
 [
     {
-        "title": "Google AI Essentials",
-        "description": "Professional certification from Google via Coursera, validating expertise in modern AI implementation.",
+        "title": "DevOps Foundations Certificate",
+        "description": "Completed foundational DevOps training covering CI/CD, collaboration workflows, and modern deployment practices.",
         "image": "assets/Certificates/DevOps.jpg",
-        "verifyUrl": "https://coursera.org/share/67b235a1f637559ca8e9b62f8225a619",
+         "verifyUrl": "",
         "issuer": "Google",
         "platform": "Coursera"
     },
     {
-        "title": "Prompting Essentials",
-        "description": "Learned to design effective prompts for AI models to generate high-quality outputs.",
+        "title": "IBM Software Engineering Certificate",
+        "description": "Covered core software engineering concepts, including version control, development lifecycle, and team-based project practices.",
         "image": "assets/Certificates/IntroToSE.png",
-        "verifyUrl": "https://www.coursera.org/account/accomplishments/verify/TJXKDRICE7HK",
+        "verifyUrl": "",
         "issuer": "Google",
         "platform": "Coursera"
     },
     {
-        "title": "Crash Course on Python",
-        "description": "Gained a solid foundation in Python programming and automation scripts.",
+        "title": "Introduction to Cybersecurity",
+        "description": "Learned cybersecurity fundamentals such as threats, vulnerabilities, risk management, and basic protection strategies.",
         "image": "assets/Certificates/FoundationOfCyberSecurity.png",
-        "verifyUrl": "https://www.coursera.org/account/accomplishments/verify/85UBFW25EO2T",
+        "verifyUrl": "",
         "issuer": "Google",
         "platform": "Coursera"
     },
     {
-        "title": "Get Started with Python",
-        "description": "Introductory course covering basic Python syntax, logic, and data structures.",
+        "title": "Introduction to Data Science",
+        "description": "Studied data science basics including data analysis workflow, exploratory techniques, and introductory statistical concepts.",
         "image": "assets/Certificates/FoundationData.png",
-        "verifyUrl": "https://www.coursera.org/account/accomplishments/certificate/WHZ03GRBS7HB",
+        "verifyUrl": "",
         "issuer": "Google",
         "platform": "Coursera"
     }
