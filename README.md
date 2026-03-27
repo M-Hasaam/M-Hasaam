@@ -188,13 +188,13 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Hasaam&theme=tokyo-night&area=true&hide_border=true&radius=16"/>
 
-<br/><br/>
+<!-- <br/><br/>
 
 ## 🔝 Top Contributed Repositories
 
 <img src="https://github-contributor-stats.vercel.app/api?username=M-Hasaam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
-</div>
+</div> -->
 
 ---
 
