@@ -581,13 +581,13 @@
               I'm currently available for new opportunities.
             </p>
           </div>
-          <form action="https://formsubmit.co/220b3303ba1f931c071c6557fd726974" method="POST">
+          <form id="contact-form" action="https://formsubmit.co/ajax/220b3303ba1f931c071c6557fd726974" method="POST">
             <input type="hidden" name="_subject" value="New Portfolio Inquiry" />
             <input type="hidden" name="_captcha" value="false" />
-            <input type="hidden" name="_next" value="https://m-hasaam.github.io/M-Hasaam/" />
-            <input type="hidden" name="_redirect" value="https://m-hasaam.github.io/M-Hasaam/">
+            <input type="hidden" name="_template" value="table" />
 
-            <!-- rest of your form stays the same -->
+            <div class="form-status" id="form-status" role="status" aria-live="polite"></div>
+
             <div class="form-grid">
               <div class="input-group">
                 <input type="text" name="name" class="input-field" placeholder="Name" required />

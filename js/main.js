@@ -19,6 +19,7 @@ import { initMobileMenu } from './mobile.js';
 import { initCompetitions } from './competitions.js';
 import { initCertificates } from './certificates.js';
 import { initParticles } from './particles.js';
+import { initContactForm } from './contact.js';
 
 /* ==========================================
    INITIALIZATION
@@ -51,6 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
    initCertificateFilters();
    initKeyboardShortcuts();
    initParticles();
+   initContactForm();
 
    // Utilities
    initEasterEgg();

@@ -214,6 +214,18 @@
     border-bottom-color: var(--gold-primary);
 }
 
+.input-field:-webkit-autofill,
+.input-field:-webkit-autofill:hover,
+.input-field:-webkit-autofill:focus,
+.input-field:-webkit-autofill:active {
+    -webkit-text-fill-color: var(--text-primary);
+    caret-color: var(--text-primary);
+    -webkit-box-shadow: 0 0 0 1000px transparent inset;
+    box-shadow: 0 0 0 1000px transparent inset;
+    transition: background-color 9999s ease-in-out 0s;
+    background-clip: text;
+}
+
 .submit-button {
     width: 100%;
     padding: 1.25rem;
@@ -227,6 +239,87 @@
     cursor: pointer;
     transition: all 0.3s ease;
     margin-top: 1rem;
+}
+
+.submit-button:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+    transform: none;
+}
+
+.form-status {
+    display: none;
+    padding: 0.9rem 1.1rem;
+    margin-bottom: 1.5rem;
+    border-radius: 10px;
+    font-size: 0.95rem;
+    line-height: 1.4;
+    border: 1px solid transparent;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    animation: form-status-in 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.form-status.sending,
+.form-status.success,
+.form-status.error {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+}
+
+.form-status i {
+    font-size: 1rem;
+    flex-shrink: 0;
+}
+
+/* Dark Theme — uses accent palette tints */
+.form-status.sending {
+    background: rgba(232, 184, 109, 0.08);
+    color: var(--gold-light);
+    border-color: rgba(232, 184, 109, 0.25);
+    box-shadow: 0 0 20px rgba(232, 184, 109, 0.08);
+}
+
+.form-status.success {
+    background: rgba(110, 231, 183, 0.08);
+    color: var(--accent-emerald);
+    border-color: rgba(110, 231, 183, 0.3);
+    box-shadow: 0 0 20px rgba(110, 231, 183, 0.1);
+}
+
+.form-status.error {
+    background: rgba(253, 164, 175, 0.08);
+    color: var(--accent-rose);
+    border-color: rgba(253, 164, 175, 0.3);
+    box-shadow: 0 0 20px rgba(253, 164, 175, 0.08);
+}
+
+/* Light Theme — deeper tints for readability on light bg */
+:root:not(.dark-theme) .form-status.sending {
+    background: rgba(201, 160, 85, 0.1);
+    color: #8B6914;
+    border-color: rgba(201, 160, 85, 0.35);
+    box-shadow: 0 4px 12px rgba(201, 160, 85, 0.08);
+}
+
+:root:not(.dark-theme) .form-status.success {
+    background: rgba(16, 122, 87, 0.08);
+    color: #047857;
+    border-color: rgba(16, 122, 87, 0.3);
+    box-shadow: 0 4px 12px rgba(16, 122, 87, 0.08);
+}
+
+:root:not(.dark-theme) .form-status.error {
+    background: rgba(190, 30, 45, 0.06);
+    color: #B91C1C;
+    border-color: rgba(190, 30, 45, 0.3);
+    box-shadow: 0 4px 12px rgba(190, 30, 45, 0.06);
+}
+
+@keyframes form-status-in {
+    from { opacity: 0; transform: translateY(-6px); }
+    to   { opacity: 1; transform: translateY(0); }
 }
 
 .submit-button:hover {
