@@ -7,14 +7,22 @@ export function initLoadingScreen() {
     const loadingScreen = document.getElementById('loading-screen');
     if (!loadingScreen) return;
 
+    // Already shown this session — hide immediately, no animation
+    if (sessionStorage.getItem('portfolio-loaded')) {
+        loadingScreen.classList.add('hidden');
+        return;
+    }
+
     // Click to hide immediately
     loadingScreen.addEventListener('click', () => {
         loadingScreen.classList.add('hidden');
+        sessionStorage.setItem('portfolio-loaded', '1');
     });
 
     window.addEventListener('load', () => {
         setTimeout(() => {
             loadingScreen.classList.add('hidden');
+            sessionStorage.setItem('portfolio-loaded', '1');
         }, 1500);
     });
 }

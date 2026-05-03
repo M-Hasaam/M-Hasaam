@@ -28,8 +28,16 @@
       if (savedTheme !== "light") {
         document.documentElement.classList.add("dark-theme");
       }
+
+      // Skip loading screen on internal navigation within the same session
+      if (sessionStorage.getItem("portfolio-loaded")) {
+        document.documentElement.classList.add("skip-loader");
+      }
     })();
   </script>
+  <style>
+    html.skip-loader #loading-screen { display: none !important; }
+  </style>
 </head>
 
 <body>
@@ -85,7 +93,7 @@
             <a href="#certificates" class="nav-link"><i class="fas fa-certificate"></i> Certificates</a>
           </li>
           <li>
-            <a href="https://github.com/M-Hasaam" class="nav-link"><i class="fas fa-folder"></i> Projects</a>
+            <a href="project.html" class="nav-link"><i class="fas fa-folder"></i> Projects</a>
           </li>
           <li>
             <a href="#contact" class="nav-link"><i class="fas fa-envelope"></i> Contact</a>
@@ -490,7 +498,7 @@
             justify-content: center;
             flex-wrap: wrap;
           ">
-        <a href="https://github.com/M-Hasaam" class="cta-button" style="display: inline-flex">
+        <a href="project.html" class="cta-button" style="display: inline-flex">
           <i class="fas fa-folder-open"></i> View All Projects
         </a>
         <a href="https://github.com/M-Hasaam" target="_blank" rel="noopener noreferrer" class="cta-button" style="
@@ -554,7 +562,7 @@
           <div class="info-group" style="margin-top: 1rem">
             <h4>Quick Navigation</h4>
             <div style="display: flex; gap: 1rem; flex-wrap: wrap">
-              <a href="https://github.com/M-Hasaam" style="
+              <a href="project.html" style="
                     color: var(--gold-primary);
                     text-decoration: none;
                     font-size: 0.9rem;
