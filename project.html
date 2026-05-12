@@ -4,8 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description"
-    content="Muhammad Hasaam - Projects page coming soon." />
+  <meta name="description" content="Muhammad Hasaam - Projects page coming soon." />
   <meta name="author" content="Muhammad Hasaam" />
   <meta http-equiv="refresh" content="0; url=https://m-hasaam.github.io/" />
   <link rel="canonical" href="https://m-hasaam.github.io/" />
@@ -96,16 +95,29 @@
     }
 
     @keyframes gear-spin {
-      to { transform: rotate(360deg); }
+      to {
+        transform: rotate(360deg);
+      }
     }
 
     @keyframes gear-spin-reverse {
-      to { transform: rotate(-360deg); }
+      to {
+        transform: rotate(-360deg);
+      }
     }
 
     @keyframes orbit-pulse {
-      0%, 100% { opacity: 0.3; transform: scale(1); }
-      50%      { opacity: 0.6; transform: scale(1.05); }
+
+      0%,
+      100% {
+        opacity: 0.3;
+        transform: scale(1);
+      }
+
+      50% {
+        opacity: 0.6;
+        transform: scale(1.05);
+      }
     }
 
     /* Eyebrow / tag */
@@ -137,8 +149,17 @@
     }
 
     @keyframes dot-pulse {
-      0%, 100% { opacity: 1; transform: scale(1); }
-      50%      { opacity: 0.4; transform: scale(0.7); }
+
+      0%,
+      100% {
+        opacity: 1;
+        transform: scale(1);
+      }
+
+      50% {
+        opacity: 0.4;
+        transform: scale(0.7);
+      }
     }
 
     /* Headline */
@@ -195,20 +216,30 @@
       position: absolute;
       inset: 0;
       background: linear-gradient(90deg,
-        transparent 0%,
-        rgba(255, 255, 255, 0.4) 50%,
-        transparent 100%);
+          transparent 0%,
+          rgba(255, 255, 255, 0.4) 50%,
+          transparent 100%);
       animation: progress-shimmer 2s linear infinite;
     }
 
     @keyframes progress-grow {
-      from { width: 0%; }
-      to   { width: 65%; }
+      from {
+        width: 0%;
+      }
+
+      to {
+        width: 65%;
+      }
     }
 
     @keyframes progress-shimmer {
-      from { transform: translateX(-100%); }
-      to   { transform: translateX(100%); }
+      from {
+        transform: translateX(-100%);
+      }
+
+      to {
+        transform: translateX(100%);
+      }
     }
 
     .progress-label {
@@ -300,10 +331,24 @@
     }
 
     @media (max-width: 600px) {
-      .corner-bracket { width: 40px; height: 40px; }
-      .gear-stage { width: 140px; height: 140px; margin-bottom: 2rem; }
-      .gear-large { font-size: 4.5rem; }
-      .gear-small { font-size: 2.25rem; }
+      .corner-bracket {
+        width: 40px;
+        height: 40px;
+      }
+
+      .gear-stage {
+        width: 140px;
+        height: 140px;
+        margin-bottom: 2rem;
+      }
+
+      .gear-large {
+        font-size: 4.5rem;
+      }
+
+      .gear-small {
+        font-size: 2.25rem;
+      }
     }
   </style>
 </head>
