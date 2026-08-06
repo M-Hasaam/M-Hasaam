@@ -178,11 +178,12 @@
 
 <br/><br/>
 
+<!--
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com/?user=M-Hasaam&theme=tokyonight&border_radius=15"/>
+ <img src="https://streak-stats.demolab.com/?user=M-Hasaam&theme=tokyonight&border_radius=15"/> -->
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 ## 📅 Contribution Graph
 
