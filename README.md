@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Muhammad%20Hasaam&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Automation%20Solutions&fontSize=55&fontColor=FFFFFF&descSize=18&fontAlignY=40&descAlignY=62"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=161B22&height=220&section=header&text=Muhammad%20Hasaam&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Automation%20Solutions&fontSize=55&fontColor=FFFFFF&descSize=18&fontAlignY=40&descAlignY=62"/>
 </p>
 
 <p align="center">
@@ -168,5 +168,5 @@ Software Engineering student at **FAST-NUCES Islamabad (CGPA 3.77/4.00)** and **
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=161B22&height=100&section=footer"/>
 </p>
