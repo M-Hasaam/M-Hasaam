@@ -49,95 +49,77 @@ Software Engineering student at **FAST-NUCES Islamabad (CGPA 3.77/4.00)** and **
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img src="./Skills_Animation_Dark.gif" alt="Skills Showcase Animation" width="60%">
+    <img src="./Skills_Animation_Dark.gif" alt="Skills Showcase Animation" width="50%">
   </picture>
 </div>
 
 <br/>
 
-### Frontend Development
+### Languages & Frameworks
 <p align="center">
-  <img src="./logos/technologies/react.svg" alt="React" title="React" height="36"/> &nbsp;
-  <img src="./logos/technologies/nextdotjs.svg" alt="Next.js" title="Next.js" height="36"/> &nbsp;
-  <img src="./logos/technologies/typescript.svg" alt="TypeScript" title="TypeScript" height="36"/> &nbsp;
-  <img src="./logos/technologies/javascript.svg" alt="JavaScript" title="JavaScript" height="36"/> &nbsp;
-  <img src="./logos/technologies/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="36"/> &nbsp;
-  <img src="./logos/technologies/html5.svg" alt="HTML5" title="HTML5" height="36"/> &nbsp;
-  <img src="./logos/technologies/css3.svg" alt="CSS3" title="CSS3" height="36"/> &nbsp;
-  <img src="./logos/technologies/vuedotjs.svg" alt="Vue.js" title="Vue.js" height="36"/> &nbsp;
-  <img src="./logos/technologies/angular.svg" alt="Angular" title="Angular" height="36"/> &nbsp;
-  <img src="./logos/technologies/vite.svg" alt="Vite" title="Vite" height="36"/> &nbsp;
-  <img src="./logos/technologies/webpack.svg" alt="Webpack" title="Webpack" height="36"/>
+  <img src="./logos/technologies/react.svg" alt="React" title="React" height="34"/> &nbsp;
+  <img src="./logos/technologies/nextdotjs.svg" alt="Next.js" title="Next.js" height="34"/> &nbsp;
+  <img src="./logos/technologies/typescript.svg" alt="TypeScript" title="TypeScript" height="34"/> &nbsp;
+  <img src="./logos/technologies/javascript.svg" alt="JavaScript" title="JavaScript" height="34"/> &nbsp;
+  <img src="./logos/technologies/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="34"/> &nbsp;
+  <img src="./logos/technologies/html5.svg" alt="HTML5" title="HTML5" height="34"/> &nbsp;
+  <img src="./logos/technologies/css3.svg" alt="CSS3" title="CSS3" height="34"/> &nbsp;
+  <img src="./logos/technologies/vuedotjs.svg" alt="Vue.js" title="Vue.js" height="34"/> &nbsp;
+  <img src="./logos/technologies/angular.svg" alt="Angular" title="Angular" height="34"/> &nbsp;
+  <img src="./logos/technologies/vite.svg" alt="Vite" title="Vite" height="34"/> &nbsp;
+  <img src="./logos/technologies/nodedotjs.svg" alt="Node.js" title="Node.js" height="34"/> &nbsp;
+  <img src="./logos/technologies/express.svg" alt="Express" title="Express" height="34"/> &nbsp;
+  <img src="./logos/technologies/nestjs.svg" alt="NestJS" title="NestJS" height="34"/> &nbsp;
+  <img src="./logos/technologies/python.svg" alt="Python" title="Python" height="34"/> &nbsp;
+  <img src="./logos/technologies/django.svg" alt="Django" title="Django" height="34"/> &nbsp;
+  <img src="./logos/technologies/fastapi.svg" alt="FastAPI" title="FastAPI" height="34"/> &nbsp;
+  <img src="./logos/technologies/go.svg" alt="Go" title="Go" height="34"/> &nbsp;
+  <img src="./logos/technologies/graphql.svg" alt="GraphQL" title="GraphQL" height="34"/> &nbsp;
+  <img src="./logos/technologies/laravel.svg" alt="Laravel" title="Laravel" height="34"/> &nbsp;
+  <img src="./logos/technologies/springboot.svg" alt="Spring Boot" title="Spring Boot" height="34"/> &nbsp;
+  <img src="./logos/technologies/csharp.svg" alt="C#" title="C#" height="34"/> &nbsp;
+  <img src="./logos/technologies/flutter.svg" alt="Flutter" title="Flutter" height="34"/>
 </p>
 
-### Backend Development
+### Databases, Cloud & DevOps
 <p align="center">
-  <img src="./logos/technologies/nodedotjs.svg" alt="Node.js" title="Node.js" height="36"/> &nbsp;
-  <img src="./logos/technologies/express.svg" alt="Express" title="Express" height="36"/> &nbsp;
-  <img src="./logos/technologies/nestjs.svg" alt="NestJS" title="NestJS" height="36"/> &nbsp;
-  <img src="./logos/technologies/python.svg" alt="Python" title="Python" height="36"/> &nbsp;
-  <img src="./logos/technologies/django.svg" alt="Django" title="Django" height="36"/> &nbsp;
-  <img src="./logos/technologies/fastapi.svg" alt="FastAPI" title="FastAPI" height="36"/> &nbsp;
-  <img src="./logos/technologies/go.svg" alt="Go" title="Go" height="36"/> &nbsp;
-  <img src="./logos/technologies/graphql.svg" alt="GraphQL" title="GraphQL" height="36"/> &nbsp;
-  <img src="./logos/technologies/laravel.svg" alt="Laravel" title="Laravel" height="36"/> &nbsp;
-  <img src="./logos/technologies/springboot.svg" alt="Spring Boot" title="Spring Boot" height="36"/> &nbsp;
-  <img src="./logos/technologies/csharp.svg" alt="C#" title="C#" height="36"/>
+  <img src="./logos/technologies/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="34"/> &nbsp;
+  <img src="./logos/technologies/mongodb.svg" alt="MongoDB" title="MongoDB" height="34"/> &nbsp;
+  <img src="./logos/technologies/redis.svg" alt="Redis" title="Redis" height="34"/> &nbsp;
+  <img src="./logos/technologies/mysql.svg" alt="MySQL" title="MySQL" height="34"/> &nbsp;
+  <img src="./logos/technologies/sqlite.svg" alt="SQLite" title="SQLite" height="34"/> &nbsp;
+  <img src="./logos/technologies/supabase.svg" alt="Supabase" title="Supabase" height="34"/> &nbsp;
+  <img src="./logos/technologies/firebase.svg" alt="Firebase" title="Firebase" height="34"/> &nbsp;
+  <img src="./logos/technologies/prisma.svg" alt="Prisma" title="Prisma" height="34"/> &nbsp;
+  <img src="./logos/technologies/docker.svg" alt="Docker" title="Docker" height="34"/> &nbsp;
+  <img src="./logos/technologies/kubernetes.svg" alt="Kubernetes" title="Kubernetes" height="34"/> &nbsp;
+  <img src="./logos/technologies/amazonaws.svg" alt="AWS" title="AWS" height="34"/> &nbsp;
+  <img src="./logos/technologies/googlecloud.svg" alt="Google Cloud" title="Google Cloud" height="34"/> &nbsp;
+  <img src="./logos/technologies/githubactions.svg" alt="GitHub Actions" title="GitHub Actions" height="34"/> &nbsp;
+  <img src="./logos/technologies/gitlab.svg" alt="GitLab CI/CD" title="GitLab CI/CD" height="34"/> &nbsp;
+  <img src="./logos/technologies/linux.svg" alt="Linux" title="Linux" height="34"/> &nbsp;
+  <img src="./logos/technologies/vercel.svg" alt="Vercel" title="Vercel" height="34"/> &nbsp;
+  <img src="./logos/technologies/cloudflare.svg" alt="Cloudflare" title="Cloudflare" height="34"/>
 </p>
 
-### Mobile Development
+### AI, Automation & Tools
 <p align="center">
-  <img src="./logos/technologies/flutter.svg" alt="Flutter" title="Flutter" height="36"/> &nbsp;
-  <img src="./logos/technologies/react.svg" alt="React Native" title="React Native" height="36"/>
-</p>
-
-### Databases & ORMs
-<p align="center">
-  <img src="./logos/technologies/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="36"/> &nbsp;
-  <img src="./logos/technologies/mongodb.svg" alt="MongoDB" title="MongoDB" height="36"/> &nbsp;
-  <img src="./logos/technologies/redis.svg" alt="Redis" title="Redis" height="36"/> &nbsp;
-  <img src="./logos/technologies/mysql.svg" alt="MySQL" title="MySQL" height="36"/> &nbsp;
-  <img src="./logos/technologies/sqlite.svg" alt="SQLite" title="SQLite" height="36"/> &nbsp;
-  <img src="./logos/technologies/supabase.svg" alt="Supabase" title="Supabase" height="36"/> &nbsp;
-  <img src="./logos/technologies/firebase.svg" alt="Firebase" title="Firebase" height="36"/> &nbsp;
-  <img src="./logos/technologies/prisma.svg" alt="Prisma" title="Prisma" height="36"/>
-</p>
-
-### DevOps & Cloud Infrastructure
-<p align="center">
-  <img src="./logos/technologies/docker.svg" alt="Docker" title="Docker" height="36"/> &nbsp;
-  <img src="./logos/technologies/kubernetes.svg" alt="Kubernetes" title="Kubernetes" height="36"/> &nbsp;
-  <img src="./logos/technologies/amazonaws.svg" alt="AWS" title="AWS" height="36"/> &nbsp;
-  <img src="./logos/technologies/googlecloud.svg" alt="Google Cloud" title="Google Cloud" height="36"/> &nbsp;
-  <img src="./logos/technologies/githubactions.svg" alt="GitHub Actions" title="GitHub Actions" height="36"/> &nbsp;
-  <img src="./logos/technologies/gitlab.svg" alt="GitLab CI/CD" title="GitLab CI/CD" height="36"/> &nbsp;
-  <img src="./logos/technologies/linux.svg" alt="Linux" title="Linux" height="36"/> &nbsp;
-  <img src="./logos/technologies/vercel.svg" alt="Vercel" title="Vercel" height="36"/> &nbsp;
-  <img src="./logos/technologies/cloudflare.svg" alt="Cloudflare" title="Cloudflare" height="36"/>
-</p>
-
-### AI, Machine Learning & Services
-<p align="center">
-  <img src="./logos/technologies/openai.svg" alt="OpenAI" title="OpenAI" height="36"/> &nbsp;
-  <img src="./logos/technologies/anthropic.svg" alt="Anthropic Claude" title="Anthropic Claude" height="36"/> &nbsp;
-  <img src="./logos/technologies/langchain.svg" alt="LangChain" title="LangChain" height="36"/> &nbsp;
-  <img src="./logos/technologies/tensorflow.svg" alt="TensorFlow" title="TensorFlow" height="36"/> &nbsp;
-  <img src="./logos/technologies/pytorch.svg" alt="PyTorch" title="PyTorch" height="36"/> &nbsp;
-  <img src="./logos/technologies/n8n.svg" alt="n8n" title="n8n" height="36"/> &nbsp;
-  <img src="./logos/technologies/stripe.svg" alt="Stripe" title="Stripe" height="36"/> &nbsp;
-  <img src="./logos/technologies/auth0.svg" alt="Auth0" title="Auth0" height="36"/> &nbsp;
-  <img src="./logos/technologies/clerk.svg" alt="Clerk" title="Clerk" height="36"/>
-</p>
-
-### Tools & Development Environment
-<p align="center">
-  <img src="./logos/technologies/visualstudiocode.svg" alt="VS Code" title="VS Code" height="36"/> &nbsp;
-  <img src="./logos/technologies/visualstudio.svg" alt="Visual Studio" title="Visual Studio" height="36"/> &nbsp;
-  <img src="./logos/technologies/git.svg" alt="Git" title="Git" height="36"/> &nbsp;
-  <img src="./logos/technologies/github.svg" alt="GitHub" title="GitHub" height="36"/> &nbsp;
-  <img src="./logos/technologies/postman.svg" alt="Postman" title="Postman" height="36"/> &nbsp;
-  <img src="./logos/technologies/figma.svg" alt="Figma" title="Figma" height="36"/> &nbsp;
-  <img src="./logos/technologies/jetbrains.svg" alt="JetBrains" title="JetBrains" height="36"/>
+  <img src="./logos/technologies/openai.svg" alt="OpenAI" title="OpenAI" height="34"/> &nbsp;
+  <img src="./logos/technologies/anthropic.svg" alt="Anthropic Claude" title="Anthropic Claude" height="34"/> &nbsp;
+  <img src="./logos/technologies/langchain.svg" alt="LangChain" title="LangChain" height="34"/> &nbsp;
+  <img src="./logos/technologies/tensorflow.svg" alt="TensorFlow" title="TensorFlow" height="34"/> &nbsp;
+  <img src="./logos/technologies/pytorch.svg" alt="PyTorch" title="PyTorch" height="34"/> &nbsp;
+  <img src="./logos/technologies/n8n.svg" alt="n8n" title="n8n" height="34"/> &nbsp;
+  <img src="./logos/technologies/stripe.svg" alt="Stripe" title="Stripe" height="34"/> &nbsp;
+  <img src="./logos/technologies/auth0.svg" alt="Auth0" title="Auth0" height="34"/> &nbsp;
+  <img src="./logos/technologies/clerk.svg" alt="Clerk" title="Clerk" height="34"/> &nbsp;
+  <img src="./logos/technologies/visualstudiocode.svg" alt="VS Code" title="VS Code" height="34"/> &nbsp;
+  <img src="./logos/technologies/visualstudio.svg" alt="Visual Studio" title="Visual Studio" height="34"/> &nbsp;
+  <img src="./logos/technologies/git.svg" alt="Git" title="Git" height="34"/> &nbsp;
+  <img src="./logos/technologies/github.svg" alt="GitHub" title="GitHub" height="34"/> &nbsp;
+  <img src="./logos/technologies/postman.svg" alt="Postman" title="Postman" height="34"/> &nbsp;
+  <img src="./logos/technologies/figma.svg" alt="Figma" title="Figma" height="34"/> &nbsp;
+  <img src="./logos/technologies/jetbrains.svg" alt="JetBrains" title="JetBrains" height="34"/>
 </p>
 
 ---
