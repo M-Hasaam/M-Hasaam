@@ -45,6 +45,16 @@ Software Engineering student at **FAST-NUCES Islamabad (CGPA 3.77/4.00)** and **
 
 # Tech Stack
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img src="./Skills_Animation_Dark.gif" alt="Skills Showcase Animation" width="60%">
+  </picture>
+</div>
+
+<br/>
+
 ### Frontend Development
 <p align="center">
   <img src="./logos/technologies/react.svg" alt="React" title="React" height="36"/> &nbsp;
