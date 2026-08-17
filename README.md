@@ -46,7 +46,7 @@ Software Engineering student at **FAST-NUCES Islamabad (CGPA 3.77/4.00)** and **
 # Tech Stack
 
 ### Frontend Development
-<p>
+<p align="center">
   <img src="./logos/technologies/react.svg" alt="React" title="React" height="36"/> &nbsp;
   <img src="./logos/technologies/nextdotjs.svg" alt="Next.js" title="Next.js" height="36"/> &nbsp;
   <img src="./logos/technologies/typescript.svg" alt="TypeScript" title="TypeScript" height="36"/> &nbsp;
@@ -61,7 +61,7 @@ Software Engineering student at **FAST-NUCES Islamabad (CGPA 3.77/4.00)** and **
 </p>
 
 ### Backend Development
-<p>
+<p align="center">
   <img src="./logos/technologies/nodedotjs.svg" alt="Node.js" title="Node.js" height="36"/> &nbsp;
   <img src="./logos/technologies/express.svg" alt="Express" title="Express" height="36"/> &nbsp;
   <img src="./logos/technologies/nestjs.svg" alt="NestJS" title="NestJS" height="36"/> &nbsp;
@@ -76,13 +76,13 @@ Software Engineering student at **FAST-NUCES Islamabad (CGPA 3.77/4.00)** and **
 </p>
 
 ### Mobile Development
-<p>
+<p align="center">
   <img src="./logos/technologies/flutter.svg" alt="Flutter" title="Flutter" height="36"/> &nbsp;
   <img src="./logos/technologies/react.svg" alt="React Native" title="React Native" height="36"/>
 </p>
 
 ### Databases & ORMs
-<p>
+<p align="center">
   <img src="./logos/technologies/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="36"/> &nbsp;
   <img src="./logos/technologies/mongodb.svg" alt="MongoDB" title="MongoDB" height="36"/> &nbsp;
   <img src="./logos/technologies/redis.svg" alt="Redis" title="Redis" height="36"/> &nbsp;
@@ -94,7 +94,7 @@ Software Engineering student at **FAST-NUCES Islamabad (CGPA 3.77/4.00)** and **
 </p>
 
 ### DevOps & Cloud Infrastructure
-<p>
+<p align="center">
   <img src="./logos/technologies/docker.svg" alt="Docker" title="Docker" height="36"/> &nbsp;
   <img src="./logos/technologies/kubernetes.svg" alt="Kubernetes" title="Kubernetes" height="36"/> &nbsp;
   <img src="./logos/technologies/amazonaws.svg" alt="AWS" title="AWS" height="36"/> &nbsp;
@@ -107,7 +107,7 @@ Software Engineering student at **FAST-NUCES Islamabad (CGPA 3.77/4.00)** and **
 </p>
 
 ### AI, Machine Learning & Services
-<p>
+<p align="center">
   <img src="./logos/technologies/openai.svg" alt="OpenAI" title="OpenAI" height="36"/> &nbsp;
   <img src="./logos/technologies/anthropic.svg" alt="Anthropic Claude" title="Anthropic Claude" height="36"/> &nbsp;
   <img src="./logos/technologies/langchain.svg" alt="LangChain" title="LangChain" height="36"/> &nbsp;
@@ -120,7 +120,7 @@ Software Engineering student at **FAST-NUCES Islamabad (CGPA 3.77/4.00)** and **
 </p>
 
 ### Tools & Development Environment
-<p>
+<p align="center">
   <img src="./logos/technologies/visualstudiocode.svg" alt="VS Code" title="VS Code" height="36"/> &nbsp;
   <img src="./logos/technologies/visualstudio.svg" alt="Visual Studio" title="Visual Studio" height="36"/> &nbsp;
   <img src="./logos/technologies/git.svg" alt="Git" title="Git" height="36"/> &nbsp;
